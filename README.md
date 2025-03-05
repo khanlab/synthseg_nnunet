@@ -1,1 +1,1 @@
-# synthseg_nnunet
+# synth_nnunet
